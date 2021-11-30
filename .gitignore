@@ -1,3 +1,6 @@
 .idea/*
 .DS_Store
 docs/reng/.ipynb_checkpoints/*
+docs/captures/*.btsnoop
+docs/captures/*.log
+docs/captures/*.pklg
